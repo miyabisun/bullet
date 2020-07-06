@@ -1,0 +1,24 @@
+{
+  "name": "bullet",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miyabisun/bullet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miyabisun/bullet/issues"
+  },
+  "homepage": "https://github.com/miyabisun/bullet#readme",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "livescript": "^1.6.0"
+  }
+}
